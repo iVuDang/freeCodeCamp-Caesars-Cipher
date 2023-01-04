@@ -1,4 +1,4 @@
-# freeCodeCamp-Caesars-Cipher-
+# freeCodeCamp-Caesars-Cipher
 
 ## Instructions
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher
